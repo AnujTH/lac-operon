@@ -143,6 +143,7 @@ public class testt {
 
         System.out.println("\n    β-galactosidase              Permease"); //10 spaces
         System.out.println("Lactose     No Lactose     Lactose     No Lactose");
-        System.out.println("   " + bGalProducedLactoseChar + "             " + bGalProducedNoLactoseChar + "             " + permeaseProducedLactoseChar + "            " + permeaseProducedNoLactoseChar + "\n\n"); // 6 spaces
+        System.out.println("   " + bGalProducedLactoseChar + "             " + bGalProducedNoLactoseChar + "             
+                           " + permeaseProducedLactoseChar + "            " + permeaseProducedNoLactoseChar + "\n\n"); // 6 spaces
     }
 }
